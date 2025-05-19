@@ -1,6 +1,3 @@
 {
-  "/(presentation)/inventory/[slug]/reserve/page": "app/(presentation)/inventory/[slug]/reserve/page.js",
-  "/(presentation)/inventory/page": "app/(presentation)/inventory/page.js",
-  "/(presentation)/page": "app/(presentation)/page.js",
-  "/api/taxonomy/route": "app/api/taxonomy/route.js"
+  "/(presentation)/inventory/page": "app/(presentation)/inventory/page.js"
 }
