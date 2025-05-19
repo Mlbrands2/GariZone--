@@ -1,0 +1,9 @@
+{
+  "[project]/node_modules/swiper/swiper-react.mjs [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/node_modules/swiper/swiper-react.mjs [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/node_modules_swiper_swiper-react_mjs_d4ddb49b._.js",
+      "static/chunks/node_modules_swiper_swiper-react_mjs_a33914a9._.js"
+    ]
+  }
+}

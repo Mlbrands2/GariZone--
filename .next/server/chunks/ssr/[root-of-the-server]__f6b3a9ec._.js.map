@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 15, "column": 0}, "map": {"version":3,"sources":["file:///home/john/Music/cdw/cdw00002/src/components/TopLoaderClient.tsx"],"sourcesContent":["'use client';\nimport NextTopLoader from 'nextjs-toploader';\n\nexport default function TopLoaderClient() {\n  return <NextTopLoader showSpinner={false} />;\n}\n"],"names":[],"mappings":";;;;AACA;AADA;;;AAGe,SAAS;IACtB,qBAAO,8OAAC,oJAAA,CAAA,UAAa;QAAC,aAAa;;;;;;AACrC","debugId":null}}]
+}

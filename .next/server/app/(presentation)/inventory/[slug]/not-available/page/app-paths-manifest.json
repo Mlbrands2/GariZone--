@@ -1,0 +1,3 @@
+{
+  "/(presentation)/inventory/[slug]/not-available/page": "app/(presentation)/inventory/[slug]/not-available/page.js"
+}
