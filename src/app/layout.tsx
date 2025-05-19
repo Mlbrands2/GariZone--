@@ -7,7 +7,7 @@ import NextTopLoadoer from "nextjs-toploader";
 import {NuqsAdapter} from "nuqs/adapters/next/app";
 
 export const metadata: Metadata = {
-  title: "🚗✨ Car Dealership Website 🌟",
+  title: "🚗GariZone",
   description: "🚘 A modern car dealership website showcasing a wide range of vehicles, services, and promotions. 🌟🔥",
 };
 

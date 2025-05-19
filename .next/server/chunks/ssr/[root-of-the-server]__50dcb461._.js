@@ -8738,7 +8738,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$nuqs$2f$dist
 ;
 ;
 const metadata = {
-    title: "🚗✨ Car Dealership Website 🌟",
+    title: "🚗GariZone",
     description: "🚘 A modern car dealership website showcasing a wide range of vehicles, services, and promotions. 🌟🔥"
 };
 function RootLayout({ children }) {
